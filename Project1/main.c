@@ -1,17 +1,12 @@
-
 #include <stdio.h>
 
-int main()
-{
+int main() {
 
-	printf("hello world");
+    int sum;
 
+    printf("1에서 100까지의 소수의 합: %d\n", sum);
 
-	return 0;
-
-
-	/////////
-
+    return 0;
 }
 
 
